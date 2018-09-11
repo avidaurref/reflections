@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+When I initialize a repository the system creates a file with metadata and I can commit my changes. I need to do it in order to begin handle my own version control
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+First, Staging area works like a basket of supermarket that you can add or drop out any product. When you are sure about products you go to the counter. Working directory is like my environment, staging area is the selection of files and repository it is the place of official version. The value of staging area is in the action of thinking which files are the official version.
