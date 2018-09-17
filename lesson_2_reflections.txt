@@ -3,3 +3,18 @@ When I initialize a repository the system creates a file with metadata and I can
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 First, Staging area works like a basket of supermarket that you can add or drop out any product. When you are sure about products you go to the counter. Working directory is like my environment, staging area is the selection of files and repository it is the place of official version. The value of staging area is in the action of thinking which files are the official version.
+
+How can you use the staging area to make sure you have one commit per logical change?
+I can use staging to make sure i have a commit per logical change when i can see what are lines have been modified on working directory.
+
+What are some situations when branches would helpful in keeping you history organized? How would branches help?
+It could helps to review any important experiment that i can use in some point of the future.
+
+How do the diagrams help you visualize the branch structure?
+It helps in order to see any lonely commit that affects the entire project
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is have only one branch. We represent this in order to understand the line of change in our project
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+Pros of automatic merging is that you don't spent time fixing sections of code. Cons of automatic merging is that you can't fix easily when something goes bad
